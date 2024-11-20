@@ -1,0 +1,1446 @@
+[
+    {
+        "doi": "10.1088/1674-1137/ad57a8",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 115113"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-04-24",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Holographic timelike entanglement entropy from Rindler method*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad641b",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 113105"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 13",
+            "funder.DOI": "funder.DOI = nr: 13",
+            "funder.name": "funder.name = nr: 13",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-06-14",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Form factor for Dalitz decays from J/\u03c8 to light pseudoscalars*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad84bb",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 113106"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 2",
+            "funder.DOI": "funder.DOI = nr: 2",
+            "funder.name": "funder.name = nr: 2",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-06-11",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Principles and prospects of Bose-Einstein correlation study at BESIII*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad77b2",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 123105"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-05-19",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Study of singly anti-charmed pentaquark production in b-factory*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad736f",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 123104"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 11",
+            "funder.DOI": "funder.DOI = nr: 11",
+            "funder.name": "funder.name = nr: 11",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-07-17",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Charm physics with overlap fermions on 2+1-flavor domain wall fermion configurations*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad77b3",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 123103"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-07-24",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Comprehensive constraints on fermionic dark matter-quark tensor interactions in direct detection experiments*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad75f5",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 123101"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 3",
+            "funder.DOI": "funder.DOI = nr: 3",
+            "funder.name": "funder.name = nr: 3",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-06-03",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Beauty-charm meson family with coupled channel effects and their strong decays*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad62de",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 113103"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-05-23",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Polarized and unpolarized off-shell \n\t   decay above the \n\t   threshold*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad6c09",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 113104"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 2",
+            "funder.DOI": "funder.DOI = nr: 2",
+            "funder.name": "funder.name = nr: 2",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2023-11-22",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Analytical formula for the cross section of hadron production from e\n               +\n               e\n               \u2212 collisions around the narrow charmouinum resonances"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad75f4",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 101001"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 2",
+            "funder.DOI": "funder.DOI = nr: 2",
+            "funder.name": "funder.name = nr: 2",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-08-22",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = CP violation of baryon decays with N\n               \u03c0 rescatterings*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad7012",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 113102"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 4",
+            "funder.DOI": "funder.DOI = nr: 4",
+            "funder.name": "funder.name = nr: 4",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-06-10",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = W boson mass in NP models with an extra U(1) gauge group*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad6e60",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 113101"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 2",
+            "funder.DOI": "funder.DOI = nr: 2",
+            "funder.name": "funder.name = nr: 2",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-06-25",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Investigating higgsino dark matter in the semi-constrained NMSSM*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad5ae5",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 103103"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-05-09",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Ground states and first radial excitations of vector tetraquark states with explicit P-waves via QCD sum rules*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad5a71",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 103104"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-04-20",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = B\n               \n                  c\n                meson and its scalar cousin with QCD sum rules*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad5661",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 103102"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-04-03",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Searches for multi-Z boson productions and anomalous gauge boson couplings at a muon collider*"
+            ]
+        }
+    },
+    {
+        "doi": "10.1088/1674-1137/ad5f80",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = y"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 103101"
+            ],
+            "abstract": [
+                "abstract.abstract = y"
+            ],
+            "funder.award": "funder.award = nr: 5",
+            "funder.DOI": "funder.DOI = nr: 5",
+            "funder.name": "funder.name = nr: 5",
+            "assertion.value": [
+                "assertion.assertion[6].value = None",
+                "assertion.assertion[5].value = None",
+                "assertion.assertion[4].value = 2024-05-12",
+                "assertion.assertion[3].value = \u00a9 2024 Chinese Physical Society and the Institute of High Energy Physics of the Chinese Academy of Sciences and the Institute of Modern Physics of the Chinese Academy of Sciences and IOP Publishing Ltd",
+                "assertion.assertion[2].value = paper",
+                "assertion.assertion[1].value = Chinese Physics C",
+                "assertion.assertion[0].value = Building imaginary-time thermal field theory with artificial neural networks*"
+            ]
+        }
+    }
+]

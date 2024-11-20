@@ -1,0 +1,1 @@
+curl -T out.csv -X PUT https://cernbox.cern.ch/remote.php/dav/public-files/rucqcD2ckuTlQRJ/springer.csv
