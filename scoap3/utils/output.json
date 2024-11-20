@@ -1,0 +1,1774 @@
+[
+    {
+        "doi": "10.1063/12.0032460",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 480005"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0032379",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[10].given = y",
+                "author.author[9].given = y",
+                "author.author[8].given = y",
+                "author.author[7].given = y",
+                "author.author[6].given = y",
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[10].family = y",
+                "author.author[9].family = y",
+                "author.author[8].family = y",
+                "author.author[7].family = y",
+                "author.author[6].family = y",
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[10].sequence = y",
+                "author.author[9].sequence = y",
+                "author.author[8].sequence = y",
+                "author.author[7].sequence = y",
+                "author.author[6].sequence = y",
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[10].ORCID = None",
+                "author.author[9].ORCID = None",
+                "author.author[8].ORCID = None",
+                "author.author[7].ORCID = None",
+                "author.author[6].ORCID = None",
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[10].authenticated-orcid = None",
+                "author.author[9].authenticated-orcid = None",
+                "author.author[8].authenticated-orcid = None",
+                "author.author[7].authenticated-orcid = None",
+                "author.author[6].authenticated-orcid = None",
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 450001"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0032445",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 500001"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028750",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[6].given = y",
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[6].family = y",
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[6].sequence = y",
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[6].ORCID = None",
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[6].authenticated-orcid = None",
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 500006"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028532",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 470004"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0032442",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 500010"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0034431",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 550002"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028609",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 490022"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028734",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 480007"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028747",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 590003"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0032450",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[7].given = y",
+                "author.author[6].given = y",
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[7].family = y",
+                "author.author[6].family = y",
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[7].sequence = y",
+                "author.author[6].sequence = y",
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[7].ORCID = None",
+                "author.author[6].ORCID = None",
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[7].authenticated-orcid = None",
+                "author.author[6].authenticated-orcid = None",
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 460001"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028590",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 450016"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028592",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 500009"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0032388",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 450012"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0020858",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author = n"
+            ],
+            "author.family": [
+                "author.author = n"
+            ],
+            "author.sequence": [
+                "author.author = n"
+            ],
+            "author.ORCID": [
+                "author.author = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [
+                "author.author = n"
+            ],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 1",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 010001"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028533",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 480008"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028598",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 480016"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028597",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 590004"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028724",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 580002"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    },
+    {
+        "doi": "10.1063/12.0028670",
+        "analysis": {
+            "accepted.date-parts": [
+                "accepted.accepted = n"
+            ],
+            "author.given": [
+                "author.author[6].given = y",
+                "author.author[5].given = y",
+                "author.author[4].given = y",
+                "author.author[3].given = y",
+                "author.author[2].given = y",
+                "author.author[1].given = y",
+                "author.author[0].given = y"
+            ],
+            "author.family": [
+                "author.author[6].family = y",
+                "author.author[5].family = y",
+                "author.author[4].family = y",
+                "author.author[3].family = y",
+                "author.author[2].family = y",
+                "author.author[1].family = y",
+                "author.author[0].family = y"
+            ],
+            "author.sequence": [
+                "author.author[6].sequence = y",
+                "author.author[5].sequence = y",
+                "author.author[4].sequence = y",
+                "author.author[3].sequence = y",
+                "author.author[2].sequence = y",
+                "author.author[1].sequence = y",
+                "author.author[0].sequence = y"
+            ],
+            "author.ORCID": [
+                "author.author[6].ORCID = None",
+                "author.author[5].ORCID = None",
+                "author.author[4].ORCID = None",
+                "author.author[3].ORCID = None",
+                "author.author[2].ORCID = None",
+                "author.author[1].ORCID = None",
+                "author.author[0].ORCID = None"
+            ],
+            "author.authenticated-orcid": [
+                "author.author[6].authenticated-orcid = None",
+                "author.author[5].authenticated-orcid = None",
+                "author.author[4].authenticated-orcid = None",
+                "author.author[3].authenticated-orcid = None",
+                "author.author[2].authenticated-orcid = None",
+                "author.author[1].authenticated-orcid = None",
+                "author.author[0].authenticated-orcid = None"
+            ],
+            "DOI": [
+                "DOI.DOI = y"
+            ],
+            "author.affiliation.name": [],
+            "author.affiliation.id.id": "author.affiliation.id.id = nr: 0",
+            "container-title": [
+                "container-title.container-title = y"
+            ],
+            "ISSN": [
+                "ISSN.ISSN = y"
+            ],
+            "volume_year": [
+                "volume_year.volume_year = n"
+            ],
+            "issue": [
+                "issue.issue = n"
+            ],
+            "issue_date": [
+                "issue_date.issue_date = n"
+            ],
+            "volume": [
+                "volume.volume = y"
+            ],
+            "title": [
+                "title.title = y"
+            ],
+            "article-number": [
+                "article-number.article-number = n"
+            ],
+            "alternative-id": [
+                "alternative-id.alternative-id = n"
+            ],
+            "relation.has-preprint.id": [
+                "relation.relation.has-preprint = n"
+            ],
+            "relation.has-preprint.id-type": [
+                "relation.relation.has-preprint = n"
+            ],
+            "page": [
+                "page.page = 490017"
+            ],
+            "abstract": [
+                "abstract.abstract = n"
+            ],
+            "funder.award": "funder.award = nr: 1",
+            "funder.DOI": "funder.DOI = nr: 1",
+            "funder.name": "funder.name = nr: 1",
+            "assertion.value": [
+                "assertion.assertion = None"
+            ]
+        }
+    }
+]
